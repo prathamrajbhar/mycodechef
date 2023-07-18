@@ -752,6 +752,34 @@
             "Hindi_Instruction": [
                 "1. दही को अधिक पानी हटाने के लिए मुस्लिन कपड़े में लपेटकर 4-5 घंटे के लिए हंग करें।\n2. लपेटे हुए दही को एक मिश्रण बाउल में ट्रांसफर करें और पाउडर चीनी डालें।\n3. चीनी पूरी तरह से घुलने तक अच्छी तरह मिलाएं।\n4. दही मिश्रण में केसर के धागे, इलायची पाउडर और कटे हुए द्राक्ष को डालें।\n5. सभी स्वादों को मिलाने के लिए अच्छी तरह मिलाएं।\n6. श्रीखंड को ठंडे में थोड़े घंटे के लिए ठंडा करें ताकि सभी स्वादों का मेल हो सके।\n7. ठंडा श्रीखंड मिठाई के रूप में या पूरी या रोटी के साथ परोसें।"
             ]
+        },
+        {
+            "id": 11,
+            "name": "khichdi",
+            "image": "https://holycowvegan.net/wp-content/uploads/2014/06/masala-khichdi-featured-image.jpg",
+            "ingredients": [
+                "Rice [चावल]",
+                "Split yellow moong dal [पीली मूंग दाल]",
+                "Turmeric powder [हल्दी पाउडर]",
+                "Ghee or oil [घी या तेल]",
+                "Cumin seeds [जीरा]",
+                "Mustard seeds [सरसों के बीज]",
+                "Asafoetida [हींग]",
+                "Ginger paste [अदरक पेस्ट]",
+                "Garlic paste [लहसुन पेस्ट]",
+                "Onion [प्याज़]",
+                "Tomato [टमाटर]",
+                "Red chili powder [लाल मिर्च पाउडर]",
+                "Coriander powder [धनिया पाउडर]",
+                "Garam masala [गरम मसाला]",
+                "Salt [नमक]"
+            ],
+            "English_Instructions":[
+                "1. Wash and soak 1 cup of rice and 1/2 cup of split yellow moong dal for 30 minutes.\n2. In a pressure cooker, add the soaked rice and dal along with 4 cups of water, 1/2 teaspoon of turmeric powder, and salt to taste.\n3. Pressure cook for 4-5 whistles or until the rice and dal are cooked and mushy.\n4. In a pan, heat 2 tablespoons of ghee or oil.\n5. Add 1 teaspoon of cumin seeds and let them splutter.\n6. Add 1/2 teaspoon of mustard seeds and let them crackle.\n7. Add 1/2 teaspoon of asafoetida, 1/2 teaspoon of ginger paste, and 1/2 teaspoon of garlic paste. Sauté for a minute.\n8. Add 1 finely chopped onion and cook until it turns golden brown.\n9. Add 1 finely chopped tomato and cook until it becomes soft and mushy.\n10. Add 1/2 teaspoon of red chili powder, 1/2 teaspoon of coriander powder, and 1/4 teaspoon of garam masala. Mix well.\n11. Pour the cooked rice and dal mixture into the pan and mix everything together.\n12. Adjust the consistency by adding water if needed.\n13. Cook on low heat for 5-10 minutes, stirring occasionally.\n14. Serve hot with yogurt or pickle."
+            ],
+            "Hindi_Instruction":[
+                "1. 1 कप चावल और 1/2 कप पीली मूंग दाल को धोकर 30 मिनट के लिए भिगो दें।\n2. एक प्रेशर कुकर में भिगोए हुए चावल और दाल को 4 कप पानी, 1/2 चम्मच हल्दी पाउडर और स्वाद के लिए नमक के साथ डालें।\n3. 4-5 सीटियों तक प्रेशर कुकर में पकाएँ या जब तक चावल और दाल पक जाएँ और घुल जाएँ।\n4. एक कड़ाही में 2 बड़े चम्मच घी या तेल गरम करें।\n5. 1 चम्मच जीरा डालें और उसे फटने दें।\n6. 1/2 चम्मच सरसों के बीज डालें और उन्हें फटने दें।\n7. 1/2 चम्मच हींग, 1/2 चम्मच अदरक पेस्ट, और 1/2 चम्मच लहसुन पेस्ट डालें। एक मिनट तक सौटें।\n8. 1 बारीकी से कटी हुई प्याज़ डालें और सुनहरा होने तक पकाएं।\n9. 1 बारीकी से कटी हुई टमाटर डालें और नरम और मुलायम होने तक पकाएं।\n10. 1/2 चम्मच लाल मिर्च पाउडर, 1/2 चम्मच धनिया पाउडर, और 1/4 चम्मच गरम मसाला डालें। अच्छी तरह मिलाएं।\n11. पके हुए चावल और दाल का मिश्रण कड़ाही में डालें और सब कुछ मिलाएं।\n12. जरूरत पड़ने पर पानी डालकर संतुलितता समायें।\n13. ढीली आंच पर 5-10 मिनट तक पकाएं, बार-बार मिलाते रहें।\n14. दही या अचार के साथ गर्मा-गर्म सर्व करें।"
+            ]
         }
     ],
     "Dessert": [
